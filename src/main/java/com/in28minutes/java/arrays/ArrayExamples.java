@@ -135,6 +135,7 @@ public class ArrayExamples {
 		System.out.println(matrix3[0]);// [I@86c347
 		System.out.println(Arrays.toString(matrix3[0]));// [1, 2, 3]
 
+
 		// Comparing Arrays
 		int[] numbers1 = { 1, 2, 3 };
 		int[] numbers2 = { 4, 5, 6 };
